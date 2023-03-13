@@ -197,17 +197,17 @@ h2 {
     color: #ffffff;
     border-radius: 5px; }
     #article .category li[class^=icon-category].icon-category0 {
-      background: #1da1f2; }
+      background: #328; }
     #article .category li[class^=icon-category].icon-category1 {
-      background: #78c846; }
+      background: #328; }
     #article .category li[class^=icon-category].icon-category2 {
-      background: #07f7d3; }
+      background: #328; }
     #article .category li[class^=icon-category].icon-category3 {
-      background: #3257b7; }
+      background: #328; }
     #article .category li[class^=icon-category].icon-category4 {
       background: #328; }
     #article .category li[class^=icon-category].icon-category5 {
-      background: #e6001e; }
+      background: #328; }
   #article article {
     width: 900px;
     margin: 70px auto; }
